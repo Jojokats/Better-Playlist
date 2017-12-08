@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228" height="219" viewBox="0 0 228 219">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="99" height="99"/>
+    <g fill="#36AFE9">
+      <rect width="99" height="27" rx="13.5"/>
+      <rect width="99" height="27" y="72" rx="13.5"/>
+    </g>
+    <g transform="rotate(-90 114 -15)">
+      <rect width="99" height="99"/>
+      <g fill="#36AFE9">
+        <rect width="99" height="27" rx="13.5"/>
+        <rect width="99" height="27" y="72" rx="13.5"/>
+      </g>
+    </g>
+    <g transform="matrix(-1 0 0 1 228 120)">
+      <rect width="99" height="99"/>
+      <g fill="#36AFE9">
+        <rect width="99" height="27" rx="13.5"/>
+        <rect width="99" height="27" y="72" rx="13.5"/>
+      </g>
+      <g transform="rotate(-90 114 -15)">
+        <rect width="99" height="99"/>
+        <g fill="#36AFE9">
+          <rect width="99" height="27" rx="13.5"/>
+          <rect width="99" height="27" y="72" rx="13.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
